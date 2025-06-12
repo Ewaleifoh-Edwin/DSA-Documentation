@@ -17,3 +17,4 @@ Portfolio building was introduced to us on the last week of the second month. We
 In Github we learnt about the markdown syntax-basic and extended like;heading, bold, italic, code, ordered list, unordered list, blackquote syntax and others like ; table,footnote, fenced code block,heading id, definition list etc. 
 
 ## INTRODUCTION TO POWER BI
+PowerBi is a very interesting, In the first week of the third month we learnt
