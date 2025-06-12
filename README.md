@@ -14,5 +14,6 @@ Others like Data Control Language DCL, Data Query Language DQL and Transactional
 
 ## INTRODUCTION TO PORTFOLIO BUILDING
 Portfolio building was introduced to us on the last week of the second month. We were made to understand the importance of having a portfolio as it is very important in this time and age, Your portfolio reveals the trail of events and projects an individual has been involved in and the progress made so far. Currently i  am buikding my portfolio to stay relevant in this time and age that curriculum vitae is hardly in use in the tech industry.
+In Github we learnt about the markdown syntax-basic and extended like;heading, bold, italic, code, ordered list, unordered list, blackquote syntax and others like ; table,footnote, fenced code block,heading id, definition list etc. 
 
 ## INTRODUCTION TO POWER BI
