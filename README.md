@@ -17,4 +17,5 @@ Portfolio building was introduced to us on the last week of the second month. We
 In Github we learnt about the markdown syntax-basic and extended like;heading, bold, italic, code, ordered list, unordered list, blackquote syntax and others like ; table,footnote, fenced code block,heading id, definition list etc. 
 
 ## INTRODUCTION TO POWER BI
-PowerBi is a very interesting, In the first week of the third month we learnt
+PowerBi is very interesting, In the first week of the third month we learnt about Canvas, how to work on Canvas and how to extreact, clean, manipulate, summarize data. Analysis and Reporting on Power BI is easier than SQL and Excel, Creating the charts and putting your final report on Dashboard. PowerBI also talks about DAX functions, Data Modelling and shows relationships of table to each other. I really enjoyed myself when we were leaning PowerBI.
+
